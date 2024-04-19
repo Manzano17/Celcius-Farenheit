@@ -1,0 +1,5 @@
+C:\Users\Manza\OneDrive\Escritorio\csharp-vacio-main\obj\Debug\net5.0\csharp-vacio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manza\OneDrive\Escritorio\csharp-vacio-main\obj\Debug\net5.0\csharp-vacio.AssemblyInfoInputs.cache
+C:\Users\Manza\OneDrive\Escritorio\csharp-vacio-main\obj\Debug\net5.0\csharp-vacio.AssemblyInfo.cs
+C:\Users\Manza\OneDrive\Escritorio\csharp-vacio-main\obj\Debug\net5.0\csharp-vacio.csproj.CoreCompileInputs.cache
+C:\Users\Manza\OneDrive\Escritorio\csharp-vacio-main\obj\Debug\net5.0\csharp-vacio.MvcApplicationPartsAssemblyInfo.cache

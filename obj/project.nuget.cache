@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6dlthPzr0bZUnCj29zMcRJtkxxZsA7FagDXnMcZ+AIZBhg3kG58pChnvBP+Q7rqOvCfYvnyvgFMeng2Ca5Nwog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Manza\\OneDrive\\Escritorio\\csharp-vacio-main\\csharp-vacio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Manza\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Manza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Manza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Manza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
